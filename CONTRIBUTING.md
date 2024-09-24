@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for showing an interest in contributing to Podium 🤎
+Thank you for showing an interest in contributing to Podium ❤️
 
 Podium is divided in a collection of modules, each in their separate repositories. The contribution process is the same for all of them.
 
